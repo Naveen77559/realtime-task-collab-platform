@@ -1,0 +1,7 @@
+{
+  "name": "SyncBoard - Real-Time Collaboration Platform",
+  "description": "A lightweight, high-performance Trello/Notion hybrid featuring real-time task management, drag-and-drop, activity tracking, and user assignment, styled with modern Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
